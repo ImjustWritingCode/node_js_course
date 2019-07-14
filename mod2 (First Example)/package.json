@@ -1,0 +1,11 @@
+{
+  "name": "module2",
+  "version": "1.0.0",
+  "description": "This is a first node.js svr I've ever created!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Chiang <wastony1107@gmail.com>",
+  "license": "ISC"
+}
